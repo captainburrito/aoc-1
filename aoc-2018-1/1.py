@@ -11,6 +11,7 @@ def readfile():
             
             if operator == "+":
                 sum=sum+int(value)
+                
             elif operator == "-":
                 sum=sum-int(value)
         

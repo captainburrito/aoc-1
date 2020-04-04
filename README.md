@@ -1,1 +1,1 @@
-First task from Advent Of Code 2018 edition
+Tasks from Advent Of Code 2018 edition

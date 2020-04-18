@@ -1,11 +1,12 @@
 #!/usr/bin/python
 
-def readfile():
+def content():
 
     sn = []
     occurences = []
     i=0
     j=0
+
     with open("2-input.txt") as f:
 
         for line in f.readlines():
@@ -40,8 +41,13 @@ def readfile():
     print("x3:",x3)
     print("Wynik:",x2*x3)
 
-def main():
-    readfile()
+def bonuscontent():
+    
 
+def main():
+
+    # content()
+    bonuscontent()
+    
 if __name__ == "__main__":
     main()

@@ -2,7 +2,6 @@
 
 def content():
 
-    // another test
     sn = []
     occurences = []
     i=0

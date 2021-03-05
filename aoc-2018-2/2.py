@@ -41,7 +41,7 @@ def content():
     print("x3:",x3)
     print("Wynik:",x2*x3)
 
-def bonuscontent():
+#def bonuscontent():
     
 
 def main():
